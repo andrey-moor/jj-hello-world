@@ -1,4 +1,4 @@
-/// A "Hello, world!" program
+/// "Hello, world!" program
 
 fn main() {
     print("Hello, world!");
