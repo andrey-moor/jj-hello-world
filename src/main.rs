@@ -1,6 +1,6 @@
 /// "Hello, world!" program
 
-// Add documentation for main
+// The main function runs when our program starts
 fn main() {
     print("Hello, world!");
 }
